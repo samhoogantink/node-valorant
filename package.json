@@ -1,6 +1,6 @@
 {
   "name": "node-valorant",
-  "version": "1.0.0",
+  "version": "1.0.0-beta",
   "description": "Valorant Node.js wrapper",
   "main": "index.js",
   "scripts": {

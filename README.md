@@ -34,7 +34,6 @@ const Valorant = new Client({
 ## Documentation
 
 ##### Create an user object
-**With only the username and region**
 ```
 const User = new Valorant.User({
 	username: 'Zworez',
@@ -42,16 +41,15 @@ const User = new Valorant.User({
 	region: 'EUW'
 });
 
-// or
+// or, with the username and discriminator combined
 
 const User = new Valorant.User({
 	username: 'Zworez#000',
 	region: 'EUW'
 });
-```
 
-**With only the user id and region**
-```
+// or, with the user id
+
 const User = new Valorant.User({
 	id: 'USERID123',
 	region: 'EUW'

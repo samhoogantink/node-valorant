@@ -7,7 +7,7 @@ This Node.js wrapper for Riot's game Valorant is currently in 'BETA' (yup a beta
 Install the dependency and start the server.
 
 ```sh
-$ npm install node-valorant
+$ npm install node-valorant@1.0.0-beta
 ```
 
 ## Set up

@@ -13,5 +13,9 @@
   	"lol",
   	"wrapper"
   ],
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/samhoogantink/node-valorant.git"
+  }
 }
